@@ -1,5 +1,5 @@
 # Project-Akir-BDL
-<h2>Kelompok 5 - SIM JOB ARRANGEMENT</h2>
+<h2>Team 5 - SIM Job Arrangement</h2>
 
 <p>
   Adam Ghazy Al Falah - 3121500045
